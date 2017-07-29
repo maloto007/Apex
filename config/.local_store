@@ -1,18 +1,1 @@
-{
-    "helloWorld.trigger": {
-        "id": "01qf4000000GnEJAA0",
-        "name": "helloWorld",
-        "createdDate": "2017-06-21T22:29:00.000+0000",
-        "createdById": "005f4000000ktqyAAA",
-        "namespacePrefix": null,
-        "lastModifiedById": "005f4000000ktqyAAA",
-        "lastModifiedDate": "2017-07-29T22:31:41.000+0000",
-        "fullName": "helloWorld",
-        "fileName": "unpackaged/triggers/helloWorld.trigger",
-        "createdByName": "edgar colque",
-        "lastModifiedByName": "edgar colque",
-        "manageableState": "unmanaged",
-        "type": "ApexTrigger",
-        "mmState": "clean"
-    }
-}
+{}
